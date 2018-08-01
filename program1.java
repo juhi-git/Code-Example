@@ -1,3 +1,4 @@
+//Class nam eshould be in capital!!
 class program1
 {
 	// Time cComplexity: O(n^2)
